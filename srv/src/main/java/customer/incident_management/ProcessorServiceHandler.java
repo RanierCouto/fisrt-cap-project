@@ -1,4 +1,4 @@
-package customer.incident_management.handler;
+package customer.incident_management;
 
 import cds.gen.processorservice.Incidents;
 import cds.gen.processorservice.ProcessorService_;
