@@ -47,6 +47,13 @@
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
+
+			<!-- BTP CONNECTION -->
+			<dependency>
+				<groupId>com.sap.cds</groupId>
+				<artifactId>cds-starter-cloudfoundry</artifactId>
+			</dependency>
+
 		</dependencies>
 	</dependencyManagement>
 
