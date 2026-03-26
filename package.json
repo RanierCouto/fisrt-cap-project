@@ -9,5 +9,6 @@
   },
   "sapux": [
     "app/incidents"
-  ]
+  ],
+  "dependencies": {}
 }
